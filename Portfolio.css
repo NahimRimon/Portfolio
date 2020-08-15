@@ -67,18 +67,19 @@ h2{
 .details{
     text-align: center;
     color:white;
-    font-family: myriad pro;
-    font-weight:500;
-    font-size:25px;
+    font-family: sans-serif;
+    font-weight:bold;
+    font-size:45px;
+
     
 }
 p{
     font-family: sans-serif;
     font-weight: bold;
-    font-size: 25px;
     color:white;
     font-weight:500;
-    font-size:25px;
+    font-size:35px;
+    
 }
 
 table.center,tr,td{
