@@ -119,7 +119,7 @@ h3{
 }
 .container{
     display: flex;
-    margin: 50px;
+    margin: 60px;
     background-color: whitesmoke;
     border-radius: 10px;
     background-image: url(backimg.jpg);
