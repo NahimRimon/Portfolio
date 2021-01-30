@@ -4,16 +4,14 @@ body{
       height:100%;
       background-size: cover;
 }
-nav .name{
-    font-family:50px 'Arizonia',sans-serif;
-    color: white;  
-}
 ul{
     list-style:none;
 }
 a{
     text-decoration:none;
     align-items: right;
+    font-family:50px 'Arizonia',sans-serif;
+    color: white;
 }
 a:hover{
     color:wheat;
