@@ -5,8 +5,9 @@ body{
       background-size: cover;
 }
 a.name{
-      font-family:50px 'Arizonia',sans-serif;
-      color: white;
+    font-family:'Arizonia';
+    color: white; 
+    font-size:50px; 
 }
 ul{
     list-style:none;
