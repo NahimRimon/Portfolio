@@ -4,8 +4,8 @@ body{
       height:100%;
       background-size: cover;
 }
-.name{
-    font-family:50px 'Arizonia';
+nav .name{
+    font-family:50px 'Arizonia',sans-serif;
     color: white;  
 }
 ul{
